@@ -14,7 +14,7 @@ print(number_of_seconds)
 
 one_kilometer = 1.61
 given_kilometer = 10
-number_of_kilometer = one_kilometer * given_kilometer
+number_of_kilometer = given_kilometer / one_kilometer
 
 print(number_of_kilometer)
 
